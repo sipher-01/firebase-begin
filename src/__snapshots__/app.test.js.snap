@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App component renders correctly 1`] = `
+<div
+  className="app"
+>
+  <div>
+    <input
+      onChange={[Function]}
+      placeholder="email..."
+    />
+    <input
+      onChange={[Function]}
+      placeholder="password..."
+      type="password"
+    />
+    <button
+      onClick={[Function]}
+    >
+      submit
+    </button>
+    <button
+      onClick={[Function]}
+    >
+      SignInWithGoogle
+    </button>
+    <button
+      onClick={[Function]}
+    >
+      SignOut
+    </button>
+  </div>
+  <div>
+    <input
+      onChange={[Function]}
+      placeholder="movie name ..."
+    />
+    <input
+      onChange={[Function]}
+      placeholder="release date ..."
+      type="number"
+    />
+    <input
+      checked={false}
+      onChange={[Function]}
+      type="checkbox"
+    />
+    <label>
+      Is worth
+    </label>
+    <button
+      onClick={[Function]}
+    >
+      submit
+    </button>
+  </div>
+  <div />
+</div>
+`;
